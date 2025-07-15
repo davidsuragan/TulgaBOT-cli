@@ -62,30 +62,10 @@ pip install -r requirements.txt
 
 4.  To end the conversation, type `quit`, `exit`, or `bye`
 
-## Features
-
-  * Text chat mode
-  * Voice chat mode (via pygame)
-  * Multilingual support
-  * Various characters
-  * Continuous conversation
-
-## Requirements
-
-  * Python 3.7+
-  * PyCharacterAI
-  * pygame (for voice chat)
-  * dotenv
-  * asyncio
-
 ## Authors
 
   - David Suragan ([https://t.me/david667s](https://t.me/david667s)) - Main developer
   - Claude (Anthropic AI) - AI assistant, code optimization, and documentation
-
-## License
-
-MIT License
 
 ## Disclaimer
 
