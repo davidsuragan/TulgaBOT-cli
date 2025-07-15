@@ -1,0 +1,4 @@
+PyCharacterAI
+requests
+python-dotenv
+pygame
