@@ -8,7 +8,7 @@ TulgaBot is a tool that allows you to chat and voice chat with virtual character
 
 ```bash
 git clone https://github.com/davidsuragan/TulgaBOT-cli.git
-cd tulgabot
+cd TulgaBOT-cli
 pip install -r requirements.txt
 ```
 
