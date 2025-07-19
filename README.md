@@ -1,7 +1,7 @@
 
 -----
 
-# TulgaBot CLI
+# Tulga CLI
 TulgaBot is a tool that allows you to chat and voice chat with virtual characters via Character AI
 
 ## Installation
